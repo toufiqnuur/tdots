@@ -4,7 +4,7 @@ export const SITE = {
   profile: "https://tnoer.pages.dev/",
   desc: "A generalist’s playground for tinkering with code, hardware, and chaos.",
   title: "tdots",
-  // ogImage: "astropaper-og.jpg",
+  ogImage: "",
   lightAndDarkMode: true,
   postPerIndex: 4,
   postPerPage: 4,
