@@ -1,7 +1,7 @@
 ---
 author: tnoer
 pubDatetime: 2025-06-28T15:51:36Z
-modDatetime:
+modDatetime: 2025-07-02T14:06:39Z
 title: "ESP32 Dev Board Clone"
 slug: bedah-esp32-dev-module
 featured: true
@@ -18,7 +18,7 @@ Dalam analisis kali ini, saya menggunakan board **ESP32 Dev Module 30 pin** yang
 
 ## Table of contents
 
-## 📐 **Struktur Rangkaian**
+## 📐 Struktur Rangkaian
 
 Seperti terlihat pada skema, saya membagi rangkaian menjadi beberapa blok agar lebih mudah dipahami dan dianalisis—mulai dari USB-C, power, uploader, sampai blok tombol dan LED.
 
@@ -54,6 +54,6 @@ Analisis ini merupakan bagian dari proses perancangan PCB menggunakan KiCad, dan
 File proyek lengkap bisa diunduh di tautan berikut:
 [Github](https://github.com/toufiqnuur/esp32-dev-module)
 
-## 📌 **Catatan Tambahan:**
+## 📌 Catatan Tambahan:
 
 Analisis ini saya susun berdasarkan riset mandiri melalui penelusuran jalur PCB, pembacaan dokumentasi, dan referensi yang relevan. Meskipun sudah saya usahakan seakurat mungkin, tidak menutup kemungkinan masih terdapat kekurangan atau kekeliruan dalam penyampaian maupun interpretasinya. Jadi, sangat terbuka untuk masukan, koreksi, atau diskusi lebih lanjut dari teman-teman yang punya insight tambahan!
